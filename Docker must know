@@ -120,7 +120,7 @@ diff between docker stop (id) & docker kill id:
 
 
 
-  commant : docker compose up 
+  command : docker compose up 
   
            docker compose down 
 
