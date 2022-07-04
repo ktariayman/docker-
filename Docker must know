@@ -124,3 +124,20 @@ diff between docker stop (id) & docker kill id:
   
            docker compose down 
 
+
+
+ DockerHub : contains images to use in dockerfile 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DockerNetworking : 
+ ²Signle host networking // multi Host Networking 
+    Signle host networking ==> Driver ==> host / none / bridge : docker()default , user defined 
+    multi Host Networking ==> Driver ==> overlay
+ 
+  
